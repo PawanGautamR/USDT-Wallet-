@@ -7,6 +7,7 @@
 .navbar{
     display: flex;
     background-color: rgb(68, 95, 214);
+    position: sticky;
 }
 
 li a{
@@ -227,4 +228,15 @@ top: 50px;
     bottom: 250px;
     color: rgb(255, 255, 255);
     
+}
+
+.index-p{
+    position: relative;
+    top: 230px;
+    right: 160px;
+    font-size: 20px;
+    font-family: 'Poppins';
+    display: block;
+    height: 50px;
+    color: rgb(248, 120, 97);
 }
